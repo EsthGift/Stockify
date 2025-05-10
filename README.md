@@ -14,3 +14,7 @@ A command-line based inventory management system built with Java.
 2.	Open the project in IntelliJ IDEA.
 3.	Open the terminal inside the project root directory.
 4.	Build and clean the project:
+./gradlew clean
+Run the application using the App class in:
+com.stockify.platform.App
+Start entering commands in the terminal to manage your inventory
